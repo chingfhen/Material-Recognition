@@ -1,2 +1,7 @@
 dataset
 model/weights
+model/.ipynb_checkpoints
+model/__init__.py
+model/__pycache__/
+__init__.py
+.ipynb_checkpoints
